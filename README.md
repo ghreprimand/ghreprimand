@@ -2,7 +2,7 @@
 
 I build practical software around the things I want to understand better.
 
-The main thread right now is **OdysseyOS**, my Linux From Scratch-based personal operating environment. It has been one of the most satisfying projects I've worked on: part systems education, part daily-driver experiment, part excuse to understand the stack all the way down.
+The main thread right now is **OdysseyOS**, my Linux From Scratch-based personal operating environment. It has been one of the most satisfying projects I've worked on. Part education, part daily-driver experimentation, part excuse to understand linux better.
 
 Other recurring threads:
 
