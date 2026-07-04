@@ -2,9 +2,9 @@
 
 I build practical software around the things I want to understand better.
 
-The main thread right now is **OdysseyOS**, my Linux From Scratch-based personal operating environment. It has been one of the most satisfying projects I've worked on. Part education, part daily-driver experimentation, part excuse to understand linux better.
+The main focus right now is **OdysseyOS**, my Linux From Scratch-based personal operating environment. It has been one of the most satisfying projects I've worked on. It runs on an AMD platform with nvidia GPU, and all of my projects are developed on this system.
 
-Other recurring threads:
+Other recurring themes:
 
 - small tools for my own development workflows
 - hi-fi, live sound, and local music utilities
