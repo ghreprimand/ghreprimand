@@ -9,6 +9,6 @@ Other recurring themes:
 - small tools for my own development workflows
 - hi-fi, live sound, and local music utilities
 - game experiments under **Unfinished Works**
-- language experiments in TypeScript, Python, Rust, C, and assembly
+- language experiments in TypeScript, Python, Rust, C, C++, and assembly
 
 Most of this is personal infrastructure, but I try to make the useful or interesting pieces public.
