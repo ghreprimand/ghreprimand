@@ -12,3 +12,8 @@ Other recurring themes:
 - language experiments in TypeScript, Python, Rust, C, C++, and assembly
 
 Most of this is personal infrastructure, but I try to make the useful or interesting pieces public.
+
+## Languages
+
+<!-- Auto-updates ~every 6h. Private repos included; repo names never exposed. -->
+[![Top Languages](https://ghstats.unfinished-works.com/api/top-langs/?username=ghreprimand&layout=compact&langs_count=8)](https://github.com/ghreprimand)
