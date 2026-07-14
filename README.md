@@ -15,5 +15,6 @@ Most of this is personal infrastructure, but I try to make the useful or interes
 
 ## Languages
 
-<!-- Auto-updates ~every 6h. Private repos included; repo names never exposed. -->
-[![Top Languages](https://ghstats.unfinished-works.com/api/top-langs/?username=ghreprimand&layout=compact&langs_count=8&v=4)](https://github.com/ghreprimand)
+<!-- LOC-based, auto-refreshed nightly. Public + private repos; no repo names exposed. -->
+![Language Breakdown](https://ghstats.unfinished-works.com/dashboard.svg?v=1)
+
