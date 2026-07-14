@@ -6,12 +6,10 @@ The main focus right now is **OdysseyOS**, my Linux From Scratch-based personal 
 
 Other recurring themes:
 
-- **the OdysseyOS ecosystem** — not just the OS, but the tooling around it: a package & security monitor, upstream/CVE tracking for source-built systems, a GPU terminal emulator, and power/telemetry control
-- **AI agents and developer tooling** — larger systems for agent workflows, plus small tools that sharpen my day-to-day
-- **Linux desktop & Wayland utilities** — Hyprland-centric tools, KVM sharing, and media prep
-- **hi-fi, live sound, and local music** — now-playing displays, listening archives, and party/queue systems
-- **game experiments under _Unfinished Works_** — point-and-click adventures, an RTS roguelike, and design tooling
-- scheduling & research tools, plus language experiments in TypeScript, Python, Rust, C, C++, and assembly
+- terminal and Linux desktop apps / utilities
+- AI agents and developer tooling
+- hi-fi, live sound, and local music utilities
+- game experiments under **Unfinished Works**
 
 Most of this is personal infrastructure, but I try to make the useful or interesting pieces public.
 
