@@ -16,5 +16,5 @@ Most of this is personal infrastructure, but I try to make the useful or interes
 ## Languages
 
 <!-- LOC-based, auto-refreshed nightly. Public + private repos; no repo names exposed. -->
-![Language Breakdown](https://ghstats.unfinished-works.com/dashboard.svg?v=1)
+![Language Breakdown](https://ghstats.unfinished-works.com/dashboard.svg?v=2)
 
