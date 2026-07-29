@@ -11,7 +11,7 @@ Other recurring themes:
 - hi-fi, live sound, and local music utilities
 - game experiments under **Unfinished Works**
 
-Most of this is personal infrastructure, but I try to make the useful or interesting pieces public.
+Most of this is personal infrastructure, but I try to make the useful or interesting things public.
 
 ## Languages
 
